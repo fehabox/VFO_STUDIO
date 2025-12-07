@@ -29,6 +29,6 @@ VFO STUDIO V1.0 - MAIN FEATURES
 - [ ] (Support for future S-meter, SWR, power meter, and texture backgrounds)
 - [ ] (Support for future optical encoder, frequency tuning)
 
-**Deno**
+**Demo**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5rs3k1yIMuM?si=bT-LY-lnly_-cZ1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/5rs3k1yIMuM/default.jpg)](https://youtu.be/5rs3k1yIMuM)
