@@ -30,5 +30,7 @@ VFO STUDIO V1.0 - MAIN FEATURES
 - [ ] (Support for future optical encoder, frequency tuning)
 
 **Demo**
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5rs3k1yIMuM" target="_blank">
+ <img src="https://img.youtube.com/vi/5rs3k1yIMuM/mqdefault.jpg" alt="Watch the video" width="640" height="480" border="10" />
+</a>
 
-https://youtu.be/5rs3k1yIMuM?si=ZZzk0tHr5WQ7ftoY
