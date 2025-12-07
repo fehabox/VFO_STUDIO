@@ -1,0 +1,89 @@
+VFO Project 1.0
+Tools in the box. Ideas out of the box.
+by @fehabox
+fehabox.com
+----------------------------------------------------------
+CREDITS & ACKNOWLEDGEMENTS
+----------------------------------------------------------
+
+This project makes use of the following open-source libraries,
+tools, and community resources. Full credit and respect to
+their authors and maintainers.
+
+----------------------------------------------------------
+Core Libraries
+----------------------------------------------------------
+
+LovyanGFX  
+  Author: lovyan03 and contributors  
+  URL: https://github.com/lovyan03/LovyanGFX  
+  Purpose: High-performance TFT display driver framework.
+
+Etherkit Si5351 Arduino Library  
+  Author: Jason Milldrum (KB9JHU)  
+  URL: https://github.com/etherkit/si5351  
+  Purpose: Si5351 PLL clock generator control.
+
+Encoder Handling (Quadrature Algorithms)  
+  Various sources, Arduino community contributions.  
+  Used for stable EC11 and optical encoder tuning.
+
+----------------------------------------------------------
+Fonts
+----------------------------------------------------------
+
+This project uses several fonts obtained from freely available
+open font resources. In cases where the exact creators are
+unknown, they are credited as:
+
+  "Third-party freely distributed fonts
+   - authorship unknown / multiple sources"
+
+Fonts are used under their respective free or open licenses.
+No copyright infringement is intended, and fonts may be
+replaced by end-users if required.
+
+Great online fonts converting tool:
+https://rop.nl/truetype2gfx/
+
+----------------------------------------------------------
+Assistance & Development Support
+----------------------------------------------------------
+
+ChatGPT (OpenAI)  
+  Role: Coding assistance, optimization guidance, UI design help,
+        modular architecture planning.
+
+Arduino / ESP32 open-source community  
+  For example sketches, hardware tips, and early VFO ideas used
+  in experimental stages.
+
+----------------------------------------------------------
+Hardware Inspiration & References
+----------------------------------------------------------
+
+ESP32 development boards  
+Si5351 breakout modules  
+ST7789 TFT panels  
+EC11 rotary encoders  
+Optical incremental encoders 
+----------------------------------------------------------
+Inspiration & References
+----------------------------------------------------------
+ 
+Homebrew HAM community
+JF3HZB for inspiration.
+
+----------------------------------------------------------
+Author & Project
+----------------------------------------------------------
+
+Primary Author: @fehabox  
+Website: fehabox.com  
+Splash Screen, Licensing, Artwork: © fehabox  
+Project Status: VFO Studio v1.0 (Initial public release)
+
+----------------------------------------------------------
+If you contributed or believe attribution is missing, contact:
+fehabox@gmail.com
+----------------------------------------------------------

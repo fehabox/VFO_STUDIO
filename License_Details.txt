@@ -1,0 +1,184 @@
+fehabox License Agreement
+
+Copyright © fehabox.com — Femi Hasani (@fehabox) ex YU8CF
+
+This software, including all UI components, display systems, tools,
+and source code provided under the "@fehabox" name, is licensed under
+a dual-license model for personal/free use and two commercial options.
+
+🔧 Additional Global Definitions (Added Items 1, 2, 3)
+
+These rules apply to all license types:
+
+A. Software Definition (Added item #3)
+“Software” refers to all code, UI assets, display systems, tools,
+methods, algorithms, artwork, and components distributed under
+the “@fehabox” or “fehabox” name.
+
+B. License Inclusion Requirement (Added item #2)
+This License Agreement must remain included and unmodified in all
+copies, forks, or redistributions of the Software, unless a
+commercial license explicitly states otherwise.
+
+C. No Sublicensing (Added item #1)
+Licensees may NOT sublicense, sell, redistribute, or provide the
+Software as a standalone product. Only fehabox / Femi Hasani may
+grant licenses to third parties.
+
+============================================================
+1. FREE NON-COMMERCIAL LICENSE (REQUIRES SPLASH SCREEN)
+============================================================
+
+You may use this software for free ONLY under the following terms:
+
+1.1 The fehabox splash screen/logo MUST be displayed on startup.
+
+It must remain intact and unmodified.
+
+No recoloring, cropping, or hiding.
+
+Must be clearly visible.
+
+1.2 Attribution is required:
+“fehabox — Tools in the box. Ideas out of the box.”
+or
+“by Femi Hasani (@fehabox)”
+
+1.3 Allowed:
+
+Personal projects
+
+Hobby use
+
+Educational use
+
+Non-commercial open-source projects
+
+1.4 NOT allowed:
+
+Commercial products
+
+Commercial distribution
+
+Paid services
+
+Closed-source commercial integration
+
+Removal or modification of the splash screen
+
+1.5 Removing or altering the splash screen VOIDs this free license.
+
+============================================================
+2. COMMERCIAL LICENSE A — SINGLE UNIT SPLASH REMOVAL LICENSE
+============================================================
+
+For users who want to remove the splash screen ONLY on one device.
+
+2.1 Grants:
+
+Permission to remove the fehabox splash screen on one product
+
+Use in one single hardware unit
+
+No attribution required in the device UI
+
+Code may be modified
+
+2.2 Restrictions:
+
+NOT allowed for mass production
+
+NOT allowed for distribution to customers
+
+NOT allowed for resale in multiple units
+
+NOT allowed for integration into commercial systems
+
+2.3 License type:
+
+10$ USD One-time fee
+
+Valid for one single unit only
+
+Must be purchased separately for each device
+
+============================================================
+3. COMMERCIAL LICENSE B — INTEGRATION & DISTRIBUTION LICENSE
+============================================================
+
+Required when:
+
+The software will be included in a commercial product
+
+The product will be sold or distributed
+
+The software becomes part of a system or product line
+
+Multiple units will be produced
+
+The splash screen must be removed or replaced
+
+Branding needs to be changed
+
+3.1 Grants:
+
+Full integration rights
+
+Splash screen removal
+
+Commercial distribution
+
+Unlimited units within agreed project
+
+Closed-source use
+
+Branding replacement
+
+Internal and external distribution
+
+Permission to sell devices using fehabox technology
+
+3.2 Restrictions:
+
+The fehabox software itself may NOT be resold as a standalone product
+
+fehabox authorship cannot be claimed by the licensee
+
+3.3 REQUIREMENT:
+
+A written agreement signed by Femi Hasani (@fehabox)
+
+No automatic or implied rights
+
+============================================================
+4. SIMPLE RULES
+============================================================
+
+• If the splash screen is removed → You MUST buy a commercial license.
+• If more than one device will be sold → Integration & Distribution License required.
+• No written agreement = no commercial rights.
+• No sublicensing of any kind is permitted.
+• This License Agreement must accompany all copies of the software.
+
+============================================================
+5. LIABILITY & WARRANTY
+============================================================
+
+This software is provided “as-is”, without warranty of any kind.
+fehabox and Femi Hasani are not responsible for any damages,
+losses, or issues arising from the use of this software.
+
+============================================================
+CONTACT
+============================================================
+
+For commercial licensing inquiries, contact:
+fehabox.com — Femi Hasani
+Website: http://fehabox.com
+
+PayPal: https://paypal.me/fehavision
+
+Instagram: @fehabox
+YouTube: @fehabox
+X: @fehabox
+GitHub: https://github.com/fehabox

@@ -1,0 +1,28 @@
+VFO STUDIO V1.0 - MAIN FEATURES
+--------------------------------
+
+1. Smooth VFO tuning with adaptive auto-step
+2. High-speed rotary encoder response (no lag)
+3. SI5351 dual-clock control (VFO + BFO)
+4. Mode-dependent BFO offsets (LSB, USB, CW, AM)
+5. Automatic CW mode switching inside band CW segments
+6. Full band system with start/end limits and default mode
+7. Multiple display layouts (frequency, dial, arc dial, full, minimal)
+8. Theme system with runtime selection and live preview
+9. Custom fonts per theme (GFX + IFont supported)
+10. Flicker-free rendering using LovyanGFX sprites
+11. Bottom status panel showing band, mode, and tuning step
+12. X-button system:
+    - Single click = next band
+    - Double click = next mode (temporary)
+    - Long press = save settings
+13. Save confirmation popup (non-blocking, centered)
+14. EEPROM storage of band, mode, step, theme, brightness
+15. Startup splash screen (project name + signature)
+
+Planned for V2:
+16. Clean modular code structure (dials, counters, themes, menu, memory)
+17. Compatible with gesture tuning modules 
+18. Support for future S-meter, SWR, power meter, and texture backgrounds
+19. Support for future optical encoder, frequency tuning
+

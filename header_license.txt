@@ -1,0 +1,26 @@
+/* 
+   fehabox Software License (Short Header Version)
+   Copyright © fehabox.com — Femi Hasani (@fehabox)
+
+   This software is free for personal, hobby, educational, and 
+   non-commercial open-source use *ONLY* under these conditions:
+
+   • The fehabox splash screen/logo must remain visible and unmodified.
+   • Attribution is required.
+   • Removing the splash screen voids the free license.
+   • Commercial use, paid services, closed-source integration,
+     redistribution, or sublicensing are NOT permitted.
+
+   Commercial licensing options:
+   A) Single Unit License – allows splash removal on one device.
+   B) Integration & Distribution License – required for selling,
+      distributing, mass-producing, or branding modifications.
+
+   Full license details included in this project:
+   • License_Details.txt
+   • fehabox_License_Agreement_Details.pdf
+
+   Online reference:
+   https://fehabox.com — PayPal: https://paypal.me/fehavision
+   GitHub: https://github.com/fehabox
+*/
