@@ -28,3 +28,7 @@ VFO STUDIO V1.0 - MAIN FEATURES
 - [ ] (Compatible with gesture tuning modules)
 - [ ] (Support for future S-meter, SWR, power meter, and texture backgrounds)
 - [ ] (Support for future optical encoder, frequency tuning)
+
+**Deno**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rs3k1yIMuM?si=bT-LY-lnly_-cZ1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
