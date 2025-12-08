@@ -29,9 +29,37 @@ VFO STUDIO V1.0 - MAIN FEATURES
 - [ ] (Support for future S-meter, SWR, power meter, and texture backgrounds)
 - [ ] (Support for future optical encoder, frequency tuning)
 
+**Connection diagram**
+
+```
+ESP32 DevKit
+│
+├── ST7789 Display
+│   ├── VCC  → 3.3V
+│   ├── GND  → GND
+│   ├── SCK  → GPIO18
+│   ├── MOSI → GPIO23
+│   ├── DC   → GPIO2
+│   ├── RST  → GPIO4
+│   └── CS   → GPIO5
+│
+├── Rotary Encoder (EC11)
+│   ├── A    → GPIO34
+│   ├── B    → GPIO35
+│   └── SW   → GPIO27
+│
+└── Si5351 I2C Synth
+    ├── SDA  → GPIO21
+    ├── SCL  → GPIO22
+    ├── VIN  → 3.3V / 5V
+    └── GND  → GND
+```
+
+
 **Demo**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=5rs3k1yIMuM" target="_blank">
  <img src="https://img.youtube.com/vi/5rs3k1yIMuM/mqdefault.jpg" alt="Watch the video" width="640" height="480" border="10" />
 </a>
+
 
